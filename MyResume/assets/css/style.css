@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 992px) {
   #main {
-    margin-left: 100px;
+    margin: auto;
   }
 }
 /*--------------------------------------------------------------
@@ -197,7 +197,6 @@ h1, h2, h3, h4, h5, h6 {
 # front-page Section
 --------------------------------------------------------------*/
 #front-page {
-  position: absolute;
   text-align: center;
   font-family: 'Roboto Slab', serif;
   width: 100%;
@@ -224,7 +223,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 992px) {
   #front-page {
-    padding-left: 160px;
+    margin: auto;
   }
 }
 #front-page:before {
@@ -236,7 +235,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
 }
 #front-page h1 {
-  margin: 0;
+  margin: auto;
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
