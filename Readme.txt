@@ -1,4 +1,4 @@
-Hosted at www.ianyng.com/iy
+Hosted at www.ianyng.com
 
 Thanks for downloading this template!
 
